@@ -1,3 +1,4 @@
 hello world
 line added in to file.txt from child_of_main branch
 
+line added from machine 2 on child_of_main branch
