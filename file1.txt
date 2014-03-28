@@ -2,3 +2,4 @@ hello world
 
 added main to hello world
 
+adding line from machine  2 on file1.txt
